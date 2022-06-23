@@ -1,5 +1,5 @@
 # Travel Landing Page
-<strong>[ HTML / CSS / JavaScript ]</strong>     https://josi-lima.github.io/travel-landing-page.github.io/
+<strong>[ HTML / CSS / JavaScript ]</strong>     https://josi-lima.github.io/travel-landing-page/
 <br><br>
 [:fr:] Page content - in FRENCH.
 <br><br> 

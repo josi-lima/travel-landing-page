@@ -1,4 +1,4 @@
-# travel-landing-page
+# Travel Landing Page
 <strong>[ HTML / CSS / JavaScript ]</strong>
 <br><br>
 [:fr:] Page content - in FRENCH.

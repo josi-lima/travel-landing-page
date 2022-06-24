@@ -1,6 +1,6 @@
-# Travel Landing Page - https://josi-lima.github.io/travel-landing-page/
-<strong>[ HTML / CSS / JavaScript ]</strong>     
-<br><br>
+# Travel Landing Page - 
+<strong>[ HTML / CSS / JavaScript ]</strong> https://josi-lima.github.io/travel-landing-page/     
+<br>
 [:fr:] Page content - in FRENCH.
 <br><br> 
 <strong>[EN]</strong><br>
